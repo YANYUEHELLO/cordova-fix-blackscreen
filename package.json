@@ -1,0 +1,14 @@
+{
+ "name": "cordova-fix-blackscreen",
+  "version": "1.0.0",
+  "description": "demo",
+  "cordova": {
+    "id": "com.linkcld.cordova.fix.blackscreen",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [],
+  "author": "demo",
+  "license": "MIT"
+}
